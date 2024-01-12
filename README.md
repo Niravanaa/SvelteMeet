@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> SvelteMeet is a straightforward CRUD-based website built in Svelte, providing users with a simple platform to create and manage meetup events.
     <br> 
 </p>
 
