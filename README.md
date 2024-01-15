@@ -92,7 +92,7 @@ Ensure that your repository is hosted on GitHub and navigate to the "Settings" t
 Push a commit to your main branch, and the GitHub Actions workflow will be triggered automatically. This workflow builds and deploys the SvelteMeet web app to the GitHub Pages link mentioned above.
 
 3. **Access the Deployed Application:**
-Once the deployment is complete, you can access the live SvelteMeet application by visiting https://niravanaa.github.io/SvelteMeet/. Share this link with others to collaborate and participate in the meetup events.
+Once the deployment is complete, you can access the live SvelteMeet application by visiting https://your-github-username.github.io/SvelteMeet/. Replace "your-github-username" with your actual GitHub username! Share this link with others to collaborate and participate in the meetup events.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Svelte](https://svelte.dev/) - Web Framework
