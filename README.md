@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=100% src="https://github.com/Niravanaa/SvelteMeet/assets/64038962/25f9c001-9404-45b6-b185-f75e2452c0de" alt="Project logo"></a>
+ <img width=100% src="https://i.imgur.com/tvYvAWx.png" alt="Project logo"></a>
 </p>
 
 
